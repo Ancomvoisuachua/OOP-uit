@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code (vs studio)\\CHUONG 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C643B9A2-5FEA-462F-90AB-3EFCC9431764}|Bai 3a\\Bai 3a.vcxproj|C:\\code (vs studio)\\CHUONG 1\\Bai 3a\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C643B9A2-5FEA-462F-90AB-3EFCC9431764}|Bai 3a\\Bai 3a.vcxproj|solutionrelative:Bai 3a\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\code (vs studio)\\CHUONG 1\\Bai 3a\\FileName.cpp",
+              "RelativeDocumentMoniker": "Bai 3a\\FileName.cpp",
+              "ToolTip": "C:\\code (vs studio)\\CHUONG 1\\Bai 3a\\FileName.cpp",
+              "RelativeToolTip": "Bai 3a\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T13:07:13.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
