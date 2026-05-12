@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bai 1 (Bai tap)/Bai 1 (Bai tap).vcxproj" Id="a0d76d82-2734-4cd7-a643-c4e96039348f" />
+  <Project Path="Bai 1 (Kiem Tra)/Bai 1 (Kiem Tra).vcxproj" Id="8ce5faff-6cf9-483f-b718-ea1f51d6823c" />
+  <Project Path="Bai 1 (Yeu Cau)/Bai 1 (Yeu Cau).vcxproj" Id="155cef32-6575-4e9d-8270-966178ad113b" />
+</Solution>
